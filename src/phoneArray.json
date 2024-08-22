@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "model": "iPhone 14 Pro",
+        "price": 999,
+        "image": "https://buy-mobile.co.il/wp-content/uploads/2023/07/985a43d89373ffaf12b04034a8c10b72-768x768.webp",
+        "description": "iPhone 14 Pro with 128GB storage, Deep Purple color."
+    },
+    {
+        "id": 2,
+        "model": "iPhone 14",
+        "price": 799,
+        "image": "https://buy-mobile.co.il/wp-content/uploads/2023/12/14-black-768x768.webp",
+        "description": "iPhone 14 with 128GB storage, Midnight color."
+    },
+    {
+        "id": 3,
+        "model": "iPhone 13 Pro",
+        "price": 949,
+        "image": "https://d3m9l0v76dty0.cloudfront.net/system/photos/10961199/large/cca5d62c20b5c6e180bd3240a2163e28.jpg",
+        "description": "iPhone 13 Pro with 256GB storage, Sierra Blue color."
+    },
+    {
+        "id": 4,
+        "model": "iPhone 13",
+        "price": 699,
+        "image": "https://img.ksp.co.il/item/173270/b_7.jpg?v=1648645699",
+        "description": "iPhone 13 with 128GB storage, Starlight color."
+    },
+    {
+        "id": 5,
+        "model": "iPhone 12 Pro Max",
+        "price": 1099,
+        "image": "https://i0.wp.com/simfreephone.co.il/wp-content/uploads/2023/05/12-PRO.jpg?w=300&ssl=1",
+        "description": "iPhone 12 Pro Max with 512GB storage, Pacific Blue color."
+    },
+    {
+        "id": 6,
+        "model": "iPhone 12",
+        "price": 699,
+        "image": "https://gadget-team.co.il/wp-content/uploads/images/56853cd4-b45f-11ee-ac41-b60a4dbeaa1b.png",
+        "description": "iPhone 12 with 64GB storage, Red color."
+    },
+    {
+        "id": 7,
+        "model": "iPhone 11 Pro",
+        "price": 899,
+        "image": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/medium/88631277770.jpg",
+        "description": "iPhone 11 Pro with 256GB storage, Midnight Green color."
+    },
+    {
+        "id": 8,
+        "model": "iPhone 11",
+        "price": 549,
+        "image": "https://www.joymobile.co.il/wp-content/uploads/2023/11/600x60012.png",
+        "description": "iPhone 11 with 64GB storage, Purple color."
+    },
+    {
+        "id": 9,
+        "model": "iPhone SE (2022)",
+        "price": 429,
+        "image": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/medium/190198451774.jpg",
+        "description": "iPhone SE (2022) with 64GB storage, Black color."
+    },
+    {
+        "id": 10,
+        "model": "iPhone XR",
+        "price": 499,
+        "image": "https://cdn.alloallo.media/catalog/product/apple/iphone/iphone-xr/iphone-xr-blue.jpg",
+        "description": "iPhone XR with 128GB storage, Yellow color."
+    },
+    {
+        "id": 11,
+        "model": "iPhone X",
+        "price": 599,
+        "image": "https://cdn.alloallo.media/catalog/product/apple/iphone/iphone-x/iphone-x-space-gray.jpg",
+        "description": "iPhone X with 64GB storage, Silver color."
+    },
+    {
+        "id": 12,
+        "model": "iPhone 8 Plus",
+        "price": 479,
+        "image": "https://gadget-team.co.il/wp-content/uploads/images/21ca2d60-b45a-11ee-b4ed-7ea121513758.png",
+        "description": "iPhone 8 Plus with 64GB storage, Gold color."
+    },
+    {
+        "id": 13,
+        "model": "iPhone 8",
+        "price": 399,
+        "image": "https://cdn.pixabay.com/photo/2021/09/15/11/42/iphone-6637673_960_720.jpg",
+        "description": "iPhone 8 with 64GB storage, Space Gray color."
+    },
+    {
+        "id": 14,
+        "model": "iPhone 7 Plus",
+        "price": 349,
+        "image": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/medium/88631577771.jpg",
+        "description": "iPhone 7 Plus with 32GB storage, Rose Gold color."
+    },
+    {
+        "id": 15,
+        "model": "iPhone 7",
+        "price": 299,
+        "image": "https://gadget-team.co.il/wp-content/uploads/images/21ca2d60-b45a-11ee-b4ed-7ea121513758.pnghttps://gadget-team.co.il/wp-content/uploads/images/21ca2d60-b45a-11ee-b4ed-7ea121513758.png",
+        "description": "iPhone 7 with 32GB storage, Jet Black color."
+    },
+    {
+        "id": 16,
+        "model": "iPhone 6s Plus",
+        "price": 249,
+        "image": "https://spcpshop.com/cdn/shop/products/iphone6Splus_1024x1024@2x.jpg?v=1624981997",
+        "description": "iPhone 6s Plus with 16GB storage, Silver color."
+    },
+    {
+        "id": 17,
+        "model": "iPhone 6s",
+        "price": 199,
+        "image": "https://www.pelephone.co.il/ds/uploadedimages/03_2022/iPhone_SE_3rd_gen_starlight.png",
+        "description": "iPhone 6s with 16GB storage, Gold color."
+    },
+    {
+        "id": 18,
+        "model": "iPhone SE (1st Gen)",
+        "price": 179,
+        "image": "https://m.media-amazon.com/images/I/41C2R+ZqZkS.jpg",
+        "description": "iPhone SE (1st Gen) with 16GB storage, Space Gray color."
+    },
+    {
+        "id": 19,
+        "model": "iPhone 5s",
+        "price": 149,
+        "image": "https://img.joomcdn.net/c7090fcccc282385a7590af35d6a3f6e52397bea_original.jpeg",
+        "description": "iPhone 5s with 16GB storage, Gold color."
+    },
+    {
+        "id": 20,
+        "model": "iPhone 5c",
+        "price": 129,
+        "image": "https://media.istoreil.co.il/57482e8d-29d5-4d9f-84d5-bd696304a4e0/https://www.istoreil.co.il/media/catalog/product/cache/1/image/1000x/0dc2d03fe217f8c83829496872af24a0/i/p/iphone-5s5c-docking-stations-from-apple.jpg/f_auto",
+        "description": "iPhone 5c with 16GB storage, Blue color."
+    }
+]
